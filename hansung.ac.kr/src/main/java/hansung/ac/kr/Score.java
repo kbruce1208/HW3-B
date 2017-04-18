@@ -10,4 +10,4 @@ public class Score {
 		if(m<0 || m>35)throw new InvalidScoreException();
 	}
 test git!!dwdw
-}
+}ssss
